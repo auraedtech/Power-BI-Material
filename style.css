@@ -18,7 +18,7 @@ body{
 }
 /* =======Portada=======*/
 .hero {
-    background-image: url('images/PBI.png');
+    background-image: url('images/portada.png');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: bottom center;
@@ -60,7 +60,7 @@ body{
     justify-content: space-around
 }
 #id img{
-    background-image: url('images/PBI.png');
+    background-image: url('images/portada.png');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: bottom center;
